@@ -1,0 +1,7 @@
+edit file `.env` dan isi nilainya:
+
+```env
+DISCORD_TOKEN=your_bot_token
+CLIENT_ID=your_client_id
+GUILD_ID=your_guild_id   # opsional, untuk testing
+```
